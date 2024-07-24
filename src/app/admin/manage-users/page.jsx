@@ -1,4 +1,4 @@
-import ManageUsers from "../../components/Admin/ManageUsers";
+import ManageUsers from "@/components/Admin/ManageUsers";
 
 const ManageUsersPage = () => {
   return (

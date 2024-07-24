@@ -1,4 +1,4 @@
-import ViewEvents from "../../components/Attendee/ViewEvents";
+import ViewEvents from "@/components/Attendee/ViewEvents";
 
 const ViewEventsPage = () => {
   return (

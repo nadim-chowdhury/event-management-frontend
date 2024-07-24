@@ -1,4 +1,4 @@
-import RegisterEvent from "../../components/Attendee/RegisterEvent";
+import RegisterEvent from "@/components/Attendee/RegisterEvent";
 
 const RegisterEventPage = () => {
   return (

@@ -1,4 +1,4 @@
-import OrganizerDashboard from "../../components/Organizer/OrganizerDashboard";
+import OrganizerDashboard from "@/components/Organizer/OrganizerDashboard";
 
 const OrganizerPage = () => {
   return (

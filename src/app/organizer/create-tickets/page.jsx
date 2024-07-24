@@ -1,4 +1,4 @@
-import CreateTickets from "../../../components/Organizer/CreateTickets";
+import CreateTickets from "@/../components/Organizer/CreateTickets";
 
 const CreateTicketsPage = () => {
   return (

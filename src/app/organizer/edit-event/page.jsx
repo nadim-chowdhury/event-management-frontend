@@ -1,4 +1,4 @@
-import EditEvent from "../../components/Organizer/EditEvent";
+import EditEvent from "@/components/Organizer/EditEvent";
 
 const EditEventPage = () => {
   return (

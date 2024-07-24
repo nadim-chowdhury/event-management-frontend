@@ -1,4 +1,4 @@
-import EventDetails from "../../components/Event/EventDetails";
+import EventDetails from "@/components/Event/EventDetails";
 
 const EventDetailsPage = () => {
   return (

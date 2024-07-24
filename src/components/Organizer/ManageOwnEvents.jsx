@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useEffect } from "react";
 import axios from "axios";
 
@@ -34,7 +36,6 @@ const ManageOwnEvents = () => {
 };
 
 export default ManageOwnEvents;
-
 
 // import { useState, useEffect } from 'react';
 // import axios from 'axios';

@@ -1,11 +1,11 @@
-import AdminDashboard from "../../components/Admin/AdminDashboard";
+import ManageUsers from "@/components/Admin/ManageUsers";
 
-const AdminPage = () => {
+const ManageUsersPage = () => {
   return (
     <div>
-      <AdminDashboard />
+      <ManageUsers />
     </div>
   );
 };
 
-export default AdminPage;
+export default ManageUsersPage;

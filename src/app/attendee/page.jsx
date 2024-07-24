@@ -1,4 +1,4 @@
-import AttendeeDashboard from "../../components/Attendee/AttendeeDashboard";
+import AttendeeDashboard from "@/components/Attendee/AttendeeDashboard";
 
 const AttendeePage = () => {
   return (

@@ -1,4 +1,4 @@
-import UserAnalytics from "../../components/Analytics/UserAnalytics";
+import UserAnalytics from "@/components/Analytics/UserAnalytics";
 
 const UserAnalyticsPage = () => {
   return (

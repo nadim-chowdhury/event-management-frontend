@@ -1,4 +1,4 @@
-import PurchaseTickets from "../../components/Attendee/PurchaseTickets";
+import PurchaseTickets from "@/components/Attendee/PurchaseTickets";
 
 const PurchaseTicketsPage = () => {
   return (
@@ -10,7 +10,7 @@ const PurchaseTicketsPage = () => {
 
 export default PurchaseTicketsPage;
 
-// import PurchaseTickets from '../../components/Attendee/PurchaseTickets';
+// import PurchaseTickets from '@/components/Attendee/PurchaseTickets';
 
 // const PurchaseTicketsPage = () => {
 //   return (

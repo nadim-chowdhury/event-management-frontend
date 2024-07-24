@@ -1,4 +1,4 @@
-import EventAnalytics from "../../components/Analytics/EventAnalytics";
+import EventAnalytics from "@/components/Analytics/EventAnalytics";
 
 const EventAnalyticsPage = () => {
   return (

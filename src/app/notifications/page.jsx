@@ -1,4 +1,4 @@
-import InAppNotifications from "../../components/Notifications/InAppNotifications";
+import InAppNotifications from "@/components/Notifications/InAppNotifications";
 
 const NotificationsPage = () => {
   return (

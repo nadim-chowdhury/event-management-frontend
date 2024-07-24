@@ -1,4 +1,4 @@
-import CreateEvent from "../../components/Organizer/CreateEvent";
+import CreateEvent from "@/components/Organizer/CreateEvent";
 
 const CreateEventPage = () => {
   return (
@@ -10,7 +10,7 @@ const CreateEventPage = () => {
 
 export default CreateEventPage;
 
-// import CreateEvent from '../../components/Organizer/CreateEvent';
+// import CreateEvent from '@/components/Organizer/CreateEvent';
 
 // const CreateEventPage = () => {
 //   return (

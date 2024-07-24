@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import axios from "axios";
 
@@ -91,7 +93,6 @@ const CreateEvent = () => {
 };
 
 export default CreateEvent;
-
 
 // import { useState } from 'react';
 // import axios from 'axios';

@@ -1,4 +1,4 @@
-import ViewTickets from "../../components/Attendee/ViewTickets";
+import ViewTickets from "@/components/Attendee/ViewTickets";
 
 const ViewTicketsPage = () => {
   return (

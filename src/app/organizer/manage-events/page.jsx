@@ -1,4 +1,4 @@
-import ManageOwnEvents from "../../components/Organizer/ManageOwnEvents";
+import ManageOwnEvents from "@/components/Organizer/ManageOwnEvents";
 
 const ManageOwnEventsPage = () => {
   return (
